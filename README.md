@@ -28,7 +28,7 @@ Following skills are required to deliver ML projects in cloud  production settin
 ## Cloud Architecture Fundamentals
 
 - Reference Architectures
-- Solution Architect 
+- Awesome Solution Architect 
 
 ## Git and fundamentals 
 
