@@ -33,6 +33,12 @@ Following skills are required to deliver ML projects in cloud  production settin
 ## Git and fundamentals 
 
 
+## Case Studies: 
+
+- Beautiful data
+- Fast Forwards labs
+- Advanced analytics in Apache Spark
+- Foundations of data science CMU 
 
     
 
