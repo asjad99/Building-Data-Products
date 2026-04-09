@@ -32,6 +32,15 @@ Following skills are required to deliver ML projects in cloud  production settin
 
 ## Git and fundamentals 
 
+# Statistics & Probability
+
+Foundational statistical concepts required for machine learning:
+
+- Probability distributions
+- Hypothesis testing
+- Statistical inference
+- Sampling
+- Evaluation metrics
 
 ## Case Studies: 
 
